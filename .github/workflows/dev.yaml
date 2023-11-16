@@ -10,7 +10,7 @@ on:
       - reopened
 
 jobs:
-  mvn-test-build:
+  dev-mvn-test-build:
     name: mvn test and build
     runs-on: ubuntu-22.04
     steps:
