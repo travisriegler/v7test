@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.travisriegler.v7api</groupId>
 	<artifactId>v7test</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>v7test</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
